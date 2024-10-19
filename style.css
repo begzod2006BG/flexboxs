@@ -1,0 +1,40 @@
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+h1 {
+  text-align: center;
+}
+.flex-container1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.red {
+  background-color: red;
+  width: 558px;
+  height: 452px;
+  color: white;
+  font-size: 40px;
+  margin-left: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.red1 {
+  background-color: red;
+  color: white;
+  width: 558px;
+  height: 452px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+  font-size: 40px;
+}
+.flex-container2 {
+  justify-content: space-between;
+  display: flex;
+  padding: 30px;
+}
